@@ -1,0 +1,2 @@
+# TypeScript-Interfaces
+ TypeScript Interfaces.
